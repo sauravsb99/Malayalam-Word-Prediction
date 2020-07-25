@@ -1,0 +1,12 @@
+Danish, Hungarian & Icelandic: HarmonikaFrench: AccordéonGerman: AkkordeonItalian: FisarmonicaNorwegian: TrekkspillPolish: Akordeon, harmoniaRussian: Bajan
+Depends on configuration:Right-hand manual
+Left-hand manual
+Hand-pumped:Bandoneón, Concertina, Flutina, Garmon, Trikitixa, Indian harmonium
+Foot-pumped:Harmonium, Reed organ
+Mouth-blown:Melodica, Harmonica, Laotian Khene, Chinese Shêng, Japanese Shō
+Electronic reedless instruments:Electronium, MIDI accordion, Roland Virtual Accordion
+Combination acoustic/electronic instruments:
+ഒരു പാശ്ചാത്യസംഗീതോപകരണം. 19-ം ശതകത്തിന്റെ ആരംഭം മുതൽ ഇത് ഉപയോഗിച്ചുവരുന്നു. 1822-ൽ ജർമനിയിലാണ് ഇത് ആദ്യം നിർമ്മിക്കപ്പെട്ടത്.
+ദീർഘചതുരാകൃതിയിലുള്ള രണ്ടു പലകകൾക്കിടയിൽ ബെല്ലോകൾ ഇണക്കിയാണ് ഇത് നിർമ്മിക്കുന്നത്. ഈ പലകകളിൽ വാദ്യത്തിന്റെ വലിപ്പച്ചെറുപ്പമനുസരിച്ച് 5 മുതൽ 50 വരെ കട്ടകൾ ഘടിപ്പിച്ചിരിക്കും. ബെല്ലോDebit sideകൾ വികസിപ്പിക്കുമ്പോൾ പുറത്തുനിന്നും വായു ഉള്ളിൽ കടക്കുന്നു; സങ്കോചിപ്പിക്കുമ്പോൾ പുറത്തേക്കു കടക്കുവാൻ ശ്രമിക്കുന്ന വായുവിനെ നിർദിഷ്ട ദ്വാരങ്ങളിൽക്കൂടി നിർദിഷ്ട തോതിൽ പുറത്തേക്കു വിടത്തക്കവണ്ണം കട്ടകളിൽ വിരലുകൾ അമർത്തുകയും അയയ്ക്കുകയും ചെയ്യുന്നു. ഒരേ കട്ടയിൽ നിന്നും രണ്ടു നാദങ്ങൾ പുറപ്പെടുവിക്കുന്നതിന് ബെല്ലോകളിൽ ഒന്നിനെ വികസിപ്പിക്കുകയും മറ്റൊന്നിനെ സങ്കോചിപ്പിക്കുകയും ചെയ്താൽ മതി.
+പിയാനോ മാതൃകയിൽ നിർമ്മിക്കപ്പെടുന്ന പിയാനോ അക്കോർഡിയനുകൾ ഇന്ന് പ്രചാരത്തിലുണ്ട്. അവയുടെ ദന്തനിര പ്രത്യേകരീതിയിലാണ് ഘടിപ്പിച്ചിട്ടുള്ളത്. ബൺഡോനിയോൺ എന്നത് മറ്റൊരിനം അക്കോർഡിയനാണ്.
+
